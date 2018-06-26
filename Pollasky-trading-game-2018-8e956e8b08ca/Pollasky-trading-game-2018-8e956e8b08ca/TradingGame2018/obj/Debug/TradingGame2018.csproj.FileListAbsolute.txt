@@ -1,0 +1,29 @@
+C:\Users\peter\AppData\Local\Temporary Projects\TradingGame2018\bin\Debug\TradingGame2018.exe.config
+\\mac\home\Documents\Visual Studio 2015\Projects\TradingGame2018\TradingGame2018\bin\Debug\TradingGame2018.exe.config
+\\mac\home\Documents\Visual Studio 2015\Projects\TradingGame2018\TradingGame2018\bin\Debug\TradingGame2018.exe
+\\mac\home\Documents\Visual Studio 2015\Projects\TradingGame2018\TradingGame2018\bin\Debug\TradingGame2018.pdb
+\\mac\home\Documents\Visual Studio 2015\Projects\TradingGame2018\TradingGame2018\obj\Debug\TradingGame2018.csprojResolveAssemblyReference.cache
+\\mac\home\Documents\Visual Studio 2015\Projects\TradingGame2018\TradingGame2018\obj\Debug\TradingGame2018.Form1.resources
+\\mac\home\Documents\Visual Studio 2015\Projects\TradingGame2018\TradingGame2018\obj\Debug\TradingGame2018.Properties.Resources.resources
+\\mac\home\Documents\Visual Studio 2015\Projects\TradingGame2018\TradingGame2018\obj\Debug\TradingGame2018.csproj.GenerateResource.Cache
+\\mac\home\Documents\Visual Studio 2015\Projects\TradingGame2018\TradingGame2018\obj\Debug\TradingGame2018.exe
+\\mac\home\Documents\Visual Studio 2015\Projects\TradingGame2018\TradingGame2018\obj\Debug\TradingGame2018.pdb
+\\Mac\Home\Documents\Programming\trading-game-2018\TradingGame2018\bin\Debug\TradingGame2018.exe.config
+\\Mac\Home\Documents\Programming\trading-game-2018\TradingGame2018\obj\Debug\TradingGame2018.exe
+\\Mac\Home\Documents\Programming\trading-game-2018\TradingGame2018\obj\Debug\TradingGame2018.pdb
+\\Mac\Home\Documents\Programming\trading-game-2018\TradingGame2018\bin\Debug\TradingGame2018.exe
+\\Mac\Home\Documents\Programming\trading-game-2018\TradingGame2018\bin\Debug\TradingGame2018.pdb
+\\Mac\Home\Documents\Programming\trading-game-2018\TradingGame2018\obj\Debug\TradingGame2018.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Programming\trading-game-2018\TradingGame2018\obj\Debug\TradingGame2018.Form1.resources
+\\Mac\Home\Documents\Programming\trading-game-2018\TradingGame2018\obj\Debug\TradingGame2018.Properties.Resources.resources
+\\Mac\Home\Documents\Programming\trading-game-2018\TradingGame2018\obj\Debug\TradingGame2018.csproj.GenerateResource.Cache
+C:\Users\scots\Desktop\phowse-trading-game-2018-8e956e8b08ca\phowse-trading-game-2018-8e956e8b08ca\TradingGame2018\bin\Debug\TradingGame2018.exe.config
+C:\Users\scots\Desktop\phowse-trading-game-2018-8e956e8b08ca\phowse-trading-game-2018-8e956e8b08ca\TradingGame2018\bin\Debug\TradingGame2018.exe
+C:\Users\scots\Desktop\phowse-trading-game-2018-8e956e8b08ca\phowse-trading-game-2018-8e956e8b08ca\TradingGame2018\bin\Debug\TradingGame2018.pdb
+C:\Users\scots\Desktop\phowse-trading-game-2018-8e956e8b08ca\phowse-trading-game-2018-8e956e8b08ca\TradingGame2018\obj\Debug\TradingGame2018.csprojResolveAssemblyReference.cache
+C:\Users\scots\Desktop\phowse-trading-game-2018-8e956e8b08ca\phowse-trading-game-2018-8e956e8b08ca\TradingGame2018\obj\Debug\TradingGame2018.Form1.resources
+C:\Users\scots\Desktop\phowse-trading-game-2018-8e956e8b08ca\phowse-trading-game-2018-8e956e8b08ca\TradingGame2018\obj\Debug\TradingGame2018.Properties.Resources.resources
+C:\Users\scots\Desktop\phowse-trading-game-2018-8e956e8b08ca\phowse-trading-game-2018-8e956e8b08ca\TradingGame2018\obj\Debug\TradingGame2018.csproj.GenerateResource.Cache
+C:\Users\scots\Desktop\phowse-trading-game-2018-8e956e8b08ca\phowse-trading-game-2018-8e956e8b08ca\TradingGame2018\obj\Debug\TradingGame2018.csproj.CoreCompileInputs.cache
+C:\Users\scots\Desktop\phowse-trading-game-2018-8e956e8b08ca\phowse-trading-game-2018-8e956e8b08ca\TradingGame2018\obj\Debug\TradingGame2018.exe
+C:\Users\scots\Desktop\phowse-trading-game-2018-8e956e8b08ca\phowse-trading-game-2018-8e956e8b08ca\TradingGame2018\obj\Debug\TradingGame2018.pdb
