@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             this.item1 = new System.Windows.Forms.Label();
             this.item2 = new System.Windows.Forms.Label();
             this.item3 = new System.Windows.Forms.Label();
@@ -70,6 +71,10 @@
             this.label16 = new System.Windows.Forms.Label();
             this.bankBalance = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
+            this.label2 = new System.Windows.Forms.Label();
+            this.timer1 = new System.Windows.Forms.Timer(this.components);
+            this.label4 = new System.Windows.Forms.Label();
+            this.timer2 = new System.Windows.Forms.Timer(this.components);
             this.SuspendLayout();
             // 
             // item1
@@ -573,11 +578,44 @@
             this.label3.Text = "Bank Balance:";
             this.label3.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             // 
+            // label2
+            // 
+            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 21.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label2.Location = new System.Drawing.Point(387, 9);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(95, 36);
+            this.label2.TabIndex = 62;
+            this.label2.Text = "00";
+            this.label2.Click += new System.EventHandler(this.label2_Click);
+            // 
+            // timer1
+            // 
+            this.timer1.Enabled = true;
+            this.timer1.Interval = 60000;
+            this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
+            // 
+            // label4
+            // 
+            this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 21.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label4.Location = new System.Drawing.Point(436, 9);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(95, 36);
+            this.label4.TabIndex = 63;
+            this.label4.Text = "00";
+            // 
+            // timer2
+            // 
+            this.timer2.Enabled = true;
+            this.timer2.Interval = 1000;
+            this.timer2.Tick += new System.EventHandler(this.timer2_Tick);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(701, 406);
+            this.Controls.Add(this.label4);
+            this.Controls.Add(this.label2);
             this.Controls.Add(this.bankBalance);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.buyWithdraw);
@@ -672,6 +710,10 @@
         private System.Windows.Forms.Label label16;
         private System.Windows.Forms.Label bankBalance;
         private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.Timer timer1;
+        private System.Windows.Forms.Label label4;
+        private System.Windows.Forms.Timer timer2;
     }
 }
 

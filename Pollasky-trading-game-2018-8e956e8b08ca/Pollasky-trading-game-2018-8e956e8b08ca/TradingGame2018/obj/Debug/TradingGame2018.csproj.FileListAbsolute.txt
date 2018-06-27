@@ -27,3 +27,13 @@ C:\Users\scots\Desktop\phowse-trading-game-2018-8e956e8b08ca\phowse-trading-game
 C:\Users\scots\Desktop\phowse-trading-game-2018-8e956e8b08ca\phowse-trading-game-2018-8e956e8b08ca\TradingGame2018\obj\Debug\TradingGame2018.csproj.CoreCompileInputs.cache
 C:\Users\scots\Desktop\phowse-trading-game-2018-8e956e8b08ca\phowse-trading-game-2018-8e956e8b08ca\TradingGame2018\obj\Debug\TradingGame2018.exe
 C:\Users\scots\Desktop\phowse-trading-game-2018-8e956e8b08ca\phowse-trading-game-2018-8e956e8b08ca\TradingGame2018\obj\Debug\TradingGame2018.pdb
+C:\Users\scots\Desktop\Pollasky-trading-game-2018-8e956e8b08ca\Pollasky-trading-game-2018-8e956e8b08ca\TradingGame2018\bin\Debug\TradingGame2018.exe.config
+C:\Users\scots\Desktop\Pollasky-trading-game-2018-8e956e8b08ca\Pollasky-trading-game-2018-8e956e8b08ca\TradingGame2018\bin\Debug\TradingGame2018.exe
+C:\Users\scots\Desktop\Pollasky-trading-game-2018-8e956e8b08ca\Pollasky-trading-game-2018-8e956e8b08ca\TradingGame2018\bin\Debug\TradingGame2018.pdb
+C:\Users\scots\Desktop\Pollasky-trading-game-2018-8e956e8b08ca\Pollasky-trading-game-2018-8e956e8b08ca\TradingGame2018\obj\Debug\TradingGame2018.csprojResolveAssemblyReference.cache
+C:\Users\scots\Desktop\Pollasky-trading-game-2018-8e956e8b08ca\Pollasky-trading-game-2018-8e956e8b08ca\TradingGame2018\obj\Debug\TradingGame2018.Form1.resources
+C:\Users\scots\Desktop\Pollasky-trading-game-2018-8e956e8b08ca\Pollasky-trading-game-2018-8e956e8b08ca\TradingGame2018\obj\Debug\TradingGame2018.Properties.Resources.resources
+C:\Users\scots\Desktop\Pollasky-trading-game-2018-8e956e8b08ca\Pollasky-trading-game-2018-8e956e8b08ca\TradingGame2018\obj\Debug\TradingGame2018.csproj.GenerateResource.Cache
+C:\Users\scots\Desktop\Pollasky-trading-game-2018-8e956e8b08ca\Pollasky-trading-game-2018-8e956e8b08ca\TradingGame2018\obj\Debug\TradingGame2018.csproj.CoreCompileInputs.cache
+C:\Users\scots\Desktop\Pollasky-trading-game-2018-8e956e8b08ca\Pollasky-trading-game-2018-8e956e8b08ca\TradingGame2018\obj\Debug\TradingGame2018.exe
+C:\Users\scots\Desktop\Pollasky-trading-game-2018-8e956e8b08ca\Pollasky-trading-game-2018-8e956e8b08ca\TradingGame2018\obj\Debug\TradingGame2018.pdb

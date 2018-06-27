@@ -235,6 +235,22 @@ namespace TradingGame2018
 
             // load the first location
             locations.SelectedIndex = 0;
+
+
+            label2.Text = "30";
+
+            label4.Text = "60";
+
+   
+
+
+        }
+
+
+        private void clock()
+        {
+           
+
         }
 
 
@@ -242,12 +258,7 @@ namespace TradingGame2018
         {
             if (double.Parse(bankBalance.Text) <= 0)
             {
-                MessageBox.Show("You have untill the end of the game to come even with the bank again or your kneecaps will be shattered");
-            }
-
-            if (locations = locations1 )
-            {
-
+                MessageBox.Show("You have untill the end of the timer to come even with the bank again or your kneecaps will be shattered");
             }
 
         }
@@ -326,6 +337,37 @@ namespace TradingGame2018
                 bankBalance.Text = (double.Parse(bankBalance.Text) + 10).ToString();
             }
         }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void timer1_Tick(object sender, EventArgs e)
+        {
+            label2.Text = (double.Parse(label2.Text) - 1).ToString();
+        }
+
+        private void timer2_Tick(object sender, EventArgs e)
+        {
+            label4.Text = (double.Parse(label4.Text) - 1).ToString();
+            if (label4.Text == "00")
+            {
+                label4.Text = "60";
+            }
+        }
+
+
+        private void endGame()
+        {
+            
+           if (label2.Text == "00")
+            {
+                MessageBox.Show("The game is over, congratulations" );
+                Close();
+            }
+        }
+
     }
 
     }
